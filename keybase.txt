@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/maaving
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mattavinger.com
+  * I am maaving (https://keybase.io/maaving) on keybase.
+  * I have a public key with fingerprint DD92 6B60 96EF 61E1 2383  03C7 1DB8 1018 A864 1E39
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014accb917c36a30f494b650bad83706a1886a2404967ae4764adcd15e60b0635c0a",
+            "fingerprint": "dd926b6096ef61e1238303c71db81018a8641e39",
+            "host": "keybase.io",
+            "key_id": "1db81018a8641e39",
+            "kid": "01014accb917c36a30f494b650bad83706a1886a2404967ae4764adcd15e60b0635c0a",
+            "uid": "23522e13992df1d97886fb3713fb5500",
+            "username": "maaving"
+        },
+        "service": {
+            "hostname": "mattavinger.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486692534,
+    "expire_in": 157680000,
+    "prev": "5ea8bd18b3d23317a8cff06b11543cd0789bda31b85385a831ed2c75cc437a9e",
+    "seqno": 36,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJbbA1BGMe3pVJVcQkiLg0rCJpmZmd3dvcQQUQreNAH9+Z0ZmdOz2q7
+u92zp4c0xC2Iy0s1DRoSKioSKiKlqok2QhARcYlUCCJxq0tcwgnKbIMnj+ZlMt/8
+/v/v/03m0sA+Uk5Gz6wBzujSDeMzrnfsS0rLDoxrqZGpy9bKkRq5nPduvILxRBAt
+t5kckQEEUCWWRU2oWwgTBGKqqVKsAUqYgXSACTQMTBQVqCbWCVd1rBJmMahxDCjA
+SLMAkfPlmO2Ucd/zbScQtoyZCqYYmJjHMORQQQYCyNIho4boaBADq5AjUwjjbiJU
+iHCUJHiB7YqaOER74/2D/8+5k712CtIUhUNkmgqLQWbqQhujSIcoRjUNgBBMcN8h
+lVzQlYRUi3HldfmyKFbbFg/fNRzkLxAEvQj3Cyy3Uqg93w1cy60Ql/Eg8CKhNljr
+hXCK0+hvmyi1HRY658vV3E/YriNHoCCtwA59oWpgbCoaUvNlvsazfR61Q0LTsQHE
+CtvwamGpcWJQBg2KmIIQ1IlhxWIAUwg1FVkM6IZJGUGQGhoyNGIgyJli6ZplqUgn
+JpfDwaocV44gLHKSMuGZsMscEiR9Lq/rvLiqr5SRI/XLygx/mJTTf/Cff1d0OVt6
+uVIqqr85Bp9jAzoc712fhjsjs3+uz51am8ya1/KDr56/+P7TA1va1O8wfvhl8/vb
+m7ZdyWn4lNo/p+Jaidfe/jF3Wle71zF93qMJq1Ntd5uKLyy4+rX7TemLnoOPd2Uv
+GZa59UNz+uHHQZOia07+6Hp2xDu/4e7e1Pjhr8+4X+burKh7sKzu7JQ93VKrP4S3
+jLoxInGUbrtXtfDtY55SZk4ends6YcfERbNLi0c9282Xb/9WvCkPPEk/r9EaT6fH
+djcXSUszvzQMnbjx+SFtRnlhVSG8VZ9XxWefqK0sZ5vjjWPS8Z5058CuFXe+nTvb
+NCh5vMndXtywpKfg/eeSZvnUp/Zjr34BcmhDXw==
+=yGRV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maaving
+
+==================================================================
